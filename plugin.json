@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Checks a business's unit economics against the floor: lifetime gross profit to acquisition cost >= 3:1 before scaling paid acquisition, with a 30-day payback clock.",
+  "keywords": [
+    "floor",
+    "kairos",
+    "metric",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-metric-floor",
+  "repository": "https://github.com/baselam88/kairos-metric-floor-plugin",
+  "version": "0.1.0"
+}
